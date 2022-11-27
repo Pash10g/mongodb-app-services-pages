@@ -1,5 +1,5 @@
 // Add Realm App ID here.
-const appId = process.env.APP_ID
+const appId = "realm-web-app-msmqs"
 const appConfig = {
   id: appId,
   timeout: 1000,
