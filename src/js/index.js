@@ -1,4 +1,4 @@
-import * as Realm from "realm-web";
+const Realm = require("realm-web");
 
 // Add Realm App ID here.
 const appId = "realm-web-app-msmqs"
