@@ -1,3 +1,5 @@
+import * as Realm from "realm-web";
+
 // Add Realm App ID here.
 const appId = "realm-web-app-msmqs"
 const appConfig = {
