@@ -1,0 +1,30 @@
+.mainTable {
+    width: 50%;
+    /* border-collapse: collapse; */
+    border-spacing: 0;
+    border: 3px solid #ccc;
+    background-color: #fff;
+    margin: 0 0 1em;
+    font-size: 1em;
+    border-color: black;
+    justify-content: center;
+    
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.cell {
+    border: 1px solid #ccc;
+    padding: 0.5em;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
