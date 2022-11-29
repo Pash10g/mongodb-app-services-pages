@@ -87,7 +87,7 @@ async function onLoad(){
     
 
 function buildTableRecords(records) {
-    var HTMLstr = '<table class="mainTable">';
+    var HTMLstr = '<table class="mainTable"><th>title</th><th>runtime</th><th>year</th>';
     records.forEach((movie) => {
         HTMLstr += "<tr>";   
         HTMLstr +=  `<td class="cell">${movie.title}</td>`;
