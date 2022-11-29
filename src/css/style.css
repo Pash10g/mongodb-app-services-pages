@@ -26,5 +26,12 @@
 }
 
 body{
-    background-color: bisque;
+    background-color: #FFEEA9;
+}
+
+.heading{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #B45AF2;
 }
